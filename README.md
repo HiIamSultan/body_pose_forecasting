@@ -1,6 +1,6 @@
 # Body Pose Forecasting
 
-![Body Pose Forecasting Visualization](figures/141675ac-018b-4ecc-97bd-6a91a88fb5c6.png)
+![Body Pose Forecasting Visualization](body_pose_forecasting.png)
 
 Forecast future human body poses using autoregressive modeling in the Vposer latent space.
 
